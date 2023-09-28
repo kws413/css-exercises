@@ -1,4 +1,19 @@
 
-.p {
-    background-color: ;
+.odd {
+    background-color: rgb(255, 108, 133);
+    font: Verdana;
+}
+
+.twofour {
+    font-size: 24px;
+}
+
+.second {
+    color: blue;
+    font-size: 36px;
+}
+
+.fourth {
+    background-color: rgb(74, 255, 74);
+    font-weight: bold;
 }
