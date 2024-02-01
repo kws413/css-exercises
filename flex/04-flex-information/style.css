@@ -24,3 +24,26 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* ANSWE */
+.title {
+  padding-bottom: 32px;
+}
+
+.elements {
+  display: flex;
+  justify-content: space-around;
+  gap: 52px;
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 200px;
+  flex-wrap: wrap;
+}
+
+body {
+  text-align: center;
+}
